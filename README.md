@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 ADAMS-Tire-Model-Calculator
+# ADAMS 轮胎模型计算器 | ADAMS-Tire-Model-Calculator
 
 ### Pacejka magic-formula tire mechanics calculator.
 
